@@ -30,6 +30,7 @@ let toastTimer
 
 const headingFonts = [
   { label: 'Classic serif', value: 'Georgia, serif' },
+  
   { label: 'Clean sans serif', value: 'Arial, sans-serif' },
   { label: 'Rounded', value: "'Trebuchet MS', sans-serif" },
   { label: 'Typewriter', value: "'Courier New', monospace" }
